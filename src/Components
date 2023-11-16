@@ -1,0 +1,9 @@
+1. MQ-3 Alcohol Ethanol Gas Sensor Module
+2. LCD 16×2
+3. LM358 IC    // for converting alcohol level analog sensor output to digital 
+4. Buzzer
+5. Arduino Uno
+6. Red, Green LED's
+7. Breadboard
+8. Jumper wires
+9. 220Ω resistor
